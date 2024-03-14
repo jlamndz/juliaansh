@@ -15,7 +15,7 @@
 
 &nbsp; &nbsp; ➵  &nbsp; 🪄 I’m currently learning **Python and Javascript**
   
-&nbsp; &nbsp; ➵  &nbsp; 🧷 All of my projects are available at **[spacejam](https://juliaansh.github.io/AllProjects-AWD-FEUTECH/)**
+&nbsp; &nbsp; ➵  &nbsp; 🧷 All of my projects are available at **[spacejam](https://juliaansh.github.io/awd-projects/)**
     
 <br>
 
