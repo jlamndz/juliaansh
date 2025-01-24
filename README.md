@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://juliaansh.io">
+  <a href="https://jlamndz.io">
     <img width="1000" height=250" src="https://i.pinimg.com/originals/9b/7a/4e/9b7a4e570ecfa39436bc7d3bf00aadee.gif" alt="MasterHead">
   </a> 
 </p>
@@ -15,7 +15,7 @@
 
 &nbsp; &nbsp; ➵  &nbsp; 🪄 I’m currently learning **Python and Javascript**
   
-&nbsp; &nbsp; ➵  &nbsp; 🧷 All of my projects are available at **[spacejam](https://juliaansh.github.io/awd-projects/)**
+&nbsp; &nbsp; ➵  &nbsp; 🧷 All of my projects are available at **[spacejam](https://jlamndz.github.io/awd-projects/)**
     
 <br>
 
@@ -57,13 +57,13 @@
 
 ## 🌐 Connect with me
 <div align="center">
-<a href="https://github.com/juliaansh" target="_blank">
+<a href="https://github.com/jlamndz" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/jlxmndz/" target="_blank">
+<a href="https://www.facebook.com/jlamndz/" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/jl.mndz/" target="_blank">
+<a href="https://www.instagram.com/jlamndz/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
